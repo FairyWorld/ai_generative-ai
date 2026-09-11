@@ -2414,3 +2414,8 @@ execv
 Hanzi
 reauth
 Reauth
+BINAUTHZ
+ORGPOLICY
+orgpolicy
+modelarmor
+polic
